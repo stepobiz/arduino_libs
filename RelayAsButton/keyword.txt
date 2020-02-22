@@ -1,0 +1,3 @@
+RelayAsButton	KEYWORD1
+push	KEYWORD2
+check	KEYWORD2
